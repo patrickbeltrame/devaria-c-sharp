@@ -1,0 +1,16 @@
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\bin\Debug\net5.0\OlaMundo.exe
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\bin\Debug\net5.0\OlaMundo.deps.json
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\bin\Debug\net5.0\OlaMundo.runtimeconfig.json
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\bin\Debug\net5.0\OlaMundo.runtimeconfig.dev.json
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\bin\Debug\net5.0\OlaMundo.dll
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\bin\Debug\net5.0\ref\OlaMundo.dll
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\bin\Debug\net5.0\OlaMundo.pdb
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\obj\Debug\net5.0\OlaMundo.csprojAssemblyReference.cache
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\obj\Debug\net5.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\obj\Debug\net5.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\obj\Debug\net5.0\OlaMundo.AssemblyInfo.cs
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\obj\Debug\net5.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\obj\Debug\net5.0\OlaMundo.dll
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\obj\Debug\net5.0\ref\OlaMundo.dll
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\obj\Debug\net5.0\OlaMundo.pdb
+C:\Users\Cinthia\Documents\GitHub\devaria-c-sharp\OlaMundo\OlaMundo\obj\Debug\net5.0\OlaMundo.genruntimeconfig.cache
